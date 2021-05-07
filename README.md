@@ -1,7 +1,7 @@
 # UITestsBelong
 
 ***Coding assignment - Cucumber scenario***
-Write feature file , step definitions and if possible pages for any of the below two requirements 
+Write feature file , step definitions and pages for any two of the below requirements 
 
 Site URL: http://automationpractice.com/
 
